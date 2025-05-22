@@ -16,61 +16,30 @@
 ---
 
 ## 📸 Screenshots
-![ScreenshotB](https://github.com/user-attachments/assets/28a42d3e-e06b-4901-b6b6-eb6db0aaccc5)
-![screenshotA](https://github.com/user-attachments/assets/57ee5d39-6bc9-48a9-8e33-5469c112bb33)
-
+<table>
+  <tr>
+    <td><img src="./screenshots/screenshotA.jpeg" width="300"/></td>
+    <td><img src="./screenshots/ScreenshotB.jpeg" width="300"/></td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
-
-* **Frontend:** React Native / Flutter / Android (Kotlin/Java)
-* **Backend:** Node.js / Express / Firebase / Supabase
-* **Database:** MongoDB / PostgreSQL / Firebase Firestore
-* **Authentication:** JWT / Firebase Auth
-
----
-
-## 📦 Getting Started
-
-### Prerequisites
-
-* Node.js installed
-* Android Studio or relevant mobile IDE setup
-
-### Installation
-
-```bash
-git clone https://github.com/your-username/LocalLoop.git
-cd LocalLoop
-npm install
-```
+<p>
+  <img src="https://img.shields.io/static/v1?message=Android%20Studio&logo=&label=&color=green&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=MVVM&logo=&label=&color=pink&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Kotlin&logo=&label=&color=purple&style=for-the-badge" height="35" />
+</p>
+<p>
+  <img src="https://img.shields.io/static/v1?message=Retrofit&logo=&label=&color=red&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Dagger%20Hilt&logo=&label=&color=yellow&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Jetpack%20Compose&logo=&label=&color=blue&style=for-the-badge" height="35" />
+</p>
 
 ---
 
-## 🧪 Running the App
 
-```bash
-# Start backend (if applicable)
-npm run server
-
-# Start frontend (React Native example)
-npx react-native run-android
-```
-
----
-
-## 🤝 Contributing
-
-We welcome contributions from the community! Here's how you can help:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -m 'Add feature'`)
-4. Push to the branch (`git push origin feature/YourFeature`)
-5. Open a Pull Request
-
----
 
 ## 📄 License
 
@@ -80,10 +49,9 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ## 🙌 Acknowledgments
 
-* Icons by [FontAwesome](https://fontawesome.com/)
+* Icons by [FlatIcons](https://www.flaticon.com/authors/flat-icons/)
 * UI inspiration from community-driven marketplaces
-* [Unsplash](https://unsplash.com/) for placeholder images
 
 ---
 
-> Built with ❤️ to empower local commerce.
+> Built with ❤️ to prototype an empowerment towards local commerce.
